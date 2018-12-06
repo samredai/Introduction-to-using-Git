@@ -294,15 +294,15 @@ Sam L. Setegne – ssetegne@email (Feel free to reach out if you run into any is
 5. Create a new Pull Request
  
 # Links to places that I relentlessly borrowed from
-https://enterprise.github.com/faq
-https://help.github.com/articles/about-gists/
-https://www.atlassian.com/git/tutorials/syncing/git-push
-https://www.atlassian.com/git/tutorials/making-a-pull-request
-https://www.atlassian.com/git/tutorials/syncing/git-pull
-https://www.atlassian.com/git/tutorials/using-branches/git-merge
-https://stackoverflow.com/questions/13321556/difference-between-git-and-github
-http://gitready.com/beginner/2009/01/21/pushing-and-pulling.html
-https://git-scm.com/docs/git-merge
+https://enterprise.github.com/faq  
+https://help.github.com/articles/about-gists/  
+https://www.atlassian.com/git/tutorials/syncing/git-push  
+https://www.atlassian.com/git/tutorials/making-a-pull-request  
+https://www.atlassian.com/git/tutorials/syncing/git-pull  
+https://www.atlassian.com/git/tutorials/using-branches/git-merge  
+https://stackoverflow.com/questions/13321556/difference-between-git-and-github  
+http://gitready.com/beginner/2009/01/21/pushing-and-pulling.html  
+https://git-scm.com/docs/git-merge  
 https://www.quora.com/What-are-branches-in-GitHub
 https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is
