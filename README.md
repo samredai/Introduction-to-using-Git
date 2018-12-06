@@ -283,7 +283,7 @@ Here is an article that talks more about this: https://thenextweb.com/insider/20
  
 Sam L. Setegne – ssetegne@email (Feel free to reach out if you run into any issues or have questions)
  
-[/ssetegne]( /ssetegne)
+[https://github.com/samsetegne](https://github.com/samsetegne)
  
 ## Contributing
  
