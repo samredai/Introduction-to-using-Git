@@ -42,8 +42,10 @@ _**note: as a shortcut to do both of these commands, you can just do ```git pull
 
 Now you're all synced with the remote repository on GitHub and you want to start working on your project. You add some code and edit some files in your local directory as you normally would using your favorite tool (vim, UltraEdit, SAS EG etc.). After an hour of working and saving your work, you're in dire need of a fresh cup of coffee so you decide to commit your changes to your local git project.
 
-```git add .```
-```git commit -m "Added some cool optimizations"```
+```sh
+git add .
+git commit -m "Added some cool optimizations"
+```
 
 You come back with your fix and are ready to fix some code. You work straight though the day tirelessly, saving your work incessantly and occasionally doing commits like in the previous step when you finish a chunk of changes.
 
