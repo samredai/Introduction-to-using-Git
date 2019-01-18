@@ -319,7 +319,7 @@ Here is an article that talks more about this: https://thenextweb.com/insider/20
  
 ## Meta
  
-Sam L. Setegne – ssetegne@email (Feel free to reach out if you run into any issues or have questions)
+Sam L. Setegne – samuelsetegne@gmail.com (Feel free to reach out if you run into any issues or have questions)
  
 [https://github.com/samsetegne](https://github.com/samsetegne)
  
