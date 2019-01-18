@@ -1,6 +1,6 @@
 # Introduction to Git
  
-* ## Table of Contents
+## Table of Contents
 [A Typical Day Using Git](#a-typical-day-using-git)  
 [The GitHub concept](#section-1-the-github-concept)  
 [GitHub vs. GitHub Enterprise](#section-2-github-vs-github-enterprise)  
