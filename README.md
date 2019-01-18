@@ -1,22 +1,22 @@
 # Introduction to Git
  
 * ## Table of Contents
-[A Typical Day Using Git](#a-typical-day-using-git)
-[The GitHub concept](#section-1-the-github-concept)
-[GitHub vs. GitHub Enterprise](#section-2-github-vs-github-enterprise)
-[What is a Repo?](#section-3-what-is-a-repo)
-[Uploading your first code](#section-4-uploading-your-first-code)
-[Public vs. Private Repos](#section-5-public-vs-private-repos)
-[Markdown Language and the README.md file](#section-6-markdown-language-and-the-readmemd-file)
-[Commits](#section-7-commits)
-[Branches & Forks](#section-8-branches)
-[Merges](#section-9-merges)
-[Git vs. GitHub](#section-10-git-vs-github)
-[Git Command Line](#section-11-the-git-command-line-tool)
-[Pulling and Pushing](#section-12-pulling-and-pushing)
-[Pull Requests](#section-13-pull-requests)
-[Gists](#section-14-gists)
-[The Hidden .git Directory (and how dangerous it can be!)](#section-15-the-hidden-git-directory-and-how-dangerous-it-can-be)
+[A Typical Day Using Git](#a-typical-day-using-git)  
+[The GitHub concept](#section-1-the-github-concept)  
+[GitHub vs. GitHub Enterprise](#section-2-github-vs-github-enterprise)  
+[What is a Repo?](#section-3-what-is-a-repo)  
+[Uploading your first code](#section-4-uploading-your-first-code)  
+[Public vs. Private Repos](#section-5-public-vs-private-repos)  
+[Markdown Language and the README.md file](#section-6-markdown-language-and-the-readmemd-file)  
+[Commits](#section-7-commits)  
+[Branches & Forks](#section-8-branches)  
+[Merges](#section-9-merges)  
+[Git vs. GitHub](#section-10-git-vs-github)  
+[Git Command Line](#section-11-the-git-command-line-tool)  
+[Pulling and Pushing](#section-12-pulling-and-pushing)  
+[Pull Requests](#section-13-pull-requests)  
+[Gists](#section-14-gists)  
+[The Hidden .git Directory (and how dangerous it can be!)](#section-15-the-hidden-git-directory-and-how-dangerous-it-can-be)  
  
 # A Typical Day Using Git
 
