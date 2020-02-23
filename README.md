@@ -1,7 +1,6 @@
 # Introduction to Git
  
 ## Table of Contents
-[A Typical Day Using Git](#a-typical-day-using-git)  
 [The GitHub concept](#section-1-the-github-concept)  
 [GitHub vs. GitHub Enterprise](#section-2-github-vs-github-enterprise)  
 [What is a Repo?](#section-3-what-is-a-repo)  
@@ -17,43 +16,6 @@
 [Pull Requests](#section-13-pull-requests)  
 [Gists](#section-14-gists)  
 [The Hidden .git Directory (and how dangerous it can be!)](#section-15-the-hidden-git-directory-and-how-dangerous-it-can-be)  
- 
-# A Typical Day Using Git
-
-Before we dive into the details and concepts behind Git, I want to open with an overview of what a typical day using Git looks like. Later sections will dive into the more complex scenarios but for the most part, this is what your day to day as a developer versioning their code using Git will consist of:
-
-You wake up, get ready for your day, and then head to your workspace.
-
-You fire up your laptop and decide to work on your favorite project, let's call it Project A.
-
-You navigate to the root directory of Project A (which should only contain all files and subfolders related to Project A)
-
-```cd /path/to/project```
-
-You start to wonder if any of your over-acheiving collaboraters were up until 4am last night commiting changes, so before you do anything you fetch information on any new changes.
-
-```git fetch```
-
-You notice there's one commit that happened since the last time you've fetched so you decide to merge that change into your local project folder.
-
-```git merge origin/master```
-
-_**note: as a shortcut to do both of these commands, you can just do ```git pull origin master``` and for an even shorter shortcut, if you're already in the master branch, you can just do ```git pull```.**_
-
-Now you're all synced with the remote repository on GitHub and you want to start working on your project. You add some code and edit some files in your local directory as you normally would using your favorite tool (vim, UltraEdit, SAS EG etc.). After an hour of working and saving your work, you're in dire need of a fresh cup of coffee so you decide to commit your changes to your local git project.
-
-```sh
-git add .
-git commit -m "Added some cool optimizations"
-```
-
-You come back with your fix and are ready to fix some code. You work straight though the day tirelessly, saving your work incessantly and occasionally doing commits like in the previous step when you finish a chunk of changes.
-
-At the end of the day you're ready to call it quits and you want to push all of these commits you've been doing all day to GitHub so that now everyone will be able to see the changes you've been making all day.
-
-```git push```
-
-...and that's a typical day using git!
 
 # Section 1: The GitHub concept
  
